@@ -17,6 +17,7 @@
       
      
      
-BIG O NOTATION  n*log n 
+BIG O NOTATION  o(n*log n) 
 
-[https://www.patika.dev]
+[Patika.dev](https://www.patika.dev/tr)
+
